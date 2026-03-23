@@ -1,0 +1,8 @@
+{
+  "name": "Education Tutor for Remote India",
+  "description": "A low-cost AI tutor optimized for rural areas using context pruning, supporting text, voice, and camera inputs with visual explanations.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
